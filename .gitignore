@@ -1,0 +1,9 @@
+.env
+.idea/FastAPIProject.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+__pycache__/ai_analyzer.cpython-312.pyc
+__pycache__/database.cpython-312.pyc
+__pycache__/image_information.cpython-312.pyc
+__pycache__/main.cpython-312.pyc
